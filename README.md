@@ -6,4 +6,4 @@ The repository links to the related repos because it was easier for me to manage
 |:------------------------:|:------------------------------------------------------------------------------------:|:-----------------------------------------------------:|
 | **bandCloud-Frontend**   | The angular app that end-users are exposed to                                        | https://github.com/BrenKenna/bandCloud-Frontend.git   |
 | **bandCloud-Deployment** | Terraform and Dockerfiles for deploying bandCloud, contains old Phase-I scripts      | https://github.com/BrenKenna/bandCloud-Deployment.git |
-| **bandCloud-RestAPI**    | Spring REST-API, does not contain jar because AWS-Client was built using credentials | https://github.com/BrenKenna/bandCloud-RestAPI.git        |
+| **bandCloud-RestAPI**    | Spring REST-API, does not contain jar because AWS-Client was built using credentials (for an account that is now deleted ;) )| https://github.com/BrenKenna/bandCloud-RestAPI.git        |
