@@ -2,6 +2,8 @@
 
 The repository links to the related repos because it was easier for me to manage them separately. The API was developed using eclipse IDE & commit history is lacking. Angular & deployment apps developed using VSCode simpler GitHub integration.
 
+Added write-up as project was dissertation, and link to video demo https://drive.google.com/drive/folders/1DJ4eTSAMjDkpc2EFCUTnTze-Pds3HRVL?usp=share_link
+
 | Name                     | Purpose in Project                                                                   | Link                                                  |
 |:------------------------:|:------------------------------------------------------------------------------------:|:-----------------------------------------------------:|
 | **bandCloud-Frontend**   | The angular app that end-users are exposed to                                        | https://github.com/BrenKenna/bandCloud-Frontend.git   |
